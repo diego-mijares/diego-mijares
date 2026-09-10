@@ -11,7 +11,7 @@
 
 ---
 
-Data science and mathematical engineering background. Based in Copenhagen, building toward long-term Danish residency.
+Data science and mathematical engineering background. Based in Copenhagen.
 
 ---
 
